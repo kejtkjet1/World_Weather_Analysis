@@ -26,7 +26,7 @@ https://github.com/kejtkjet1/World_Weather_Analysis/tree/main/Weather_database
 
 ![WeatherPy_vacation_map.png](https://github.com/kejtkjet1/World_Weather_Analysis/blob/main/Vacation_Search/WeatherPy_vacation_map.png)
 
-- All the Vacation search stepes are included in the code below:
+- All the Vacation search steps are included in the code below:
 
 https://github.com/kejtkjet1/World_Weather_Analysis/blob/main/Vacation_Search/Vacation_Search.ipynb
 
