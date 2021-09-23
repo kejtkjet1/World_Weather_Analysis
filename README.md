@@ -31,7 +31,7 @@ https://github.com/kejtkjet1/World_Weather_Analysis/tree/main/Weather_database
 https://github.com/kejtkjet1/World_Weather_Analysis/blob/main/Vacation_Search/Vacation_Search.ipynb
 
 - Final Step: Creating the Itinerary
-    - We looked at all the locations identified in the initial steps and picked 4 cities to trave to
+    - We looked at all the locations identified in the initial steps and picked 4 cities to travel to
     - Using Google Directions API - we mapped out a route for our trip
 
 ![WeatherPy_travel_map.png](https://github.com/kejtkjet1/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map.png)
