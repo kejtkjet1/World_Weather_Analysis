@@ -20,7 +20,7 @@ We aimed to create a list of vacation recommendations based on a random list of 
 https://github.com/kejtkjet1/World_Weather_Analysis/tree/main/Weather_database
 
 - Second Step: Vacation Search
-    - We looked at various weather conditions to find locations from our initial databaase that matched the preferred weather descriptions of the user
+    - We looked at various weather conditions to find locations from our initial database that matched the preferred weather descriptions of the user
     - Using Google Places API - we identified hotels in the desired locations and removed any locations without a hotel from our database
     - Using Google Maps API - we mapped out all the locations that matched out weather condition search criteria
 
